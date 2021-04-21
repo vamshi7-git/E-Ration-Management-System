@@ -1,0 +1,78 @@
+body
+{
+	margin: 60px;
+	padding: 0;
+	font-family: serif;
+	background-color: black;
+
+}
+.head{
+	width: 600px;
+	font-family: 'Trebuchet MS';
+	text-align: center;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,0.3);
+	margin: 2% auto 0;
+	padding: 4px;
+	color:#ff9000;
+	font-size: 40px;
+	
+	
+}
+.sign-up-form{
+
+	width: 400px;
+	background:white;
+	text-align: center;
+	box-shadow: 0 0 7px 0 rgba(0,0,0,0.3);
+	margin: 3% auto 0;
+	padding:20px;
+	border-radius: 20px;
+	
+	
+}
+.sign-up-form h1{
+	color:#ff9000;
+	margin-bottom:40px;
+	font-size: 40px;
+	font-family: Trebuchet MS;
+}
+
+
+.inputboxes{
+	width: 100%;
+	border-radius: 20px;
+	width: 200px;
+	padding: 10px;
+	outline: none;
+	border: 1px solid orange;
+	margin: 10px;
+	background-color: black;
+	color:whitesmoke;
+}
+.Submitbutton{
+	color:white ;
+	width: 150px;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	font-family: Trebuchet MS;
+	margin: 10px 0;
+	border: 1px;
+	background-color:#ff9000;
+	outline: none;
+	cursor: pointer;
+}
+
+.error{
+ 		
+ 		width: 100%;
+ 		margin:0px auto;
+ 		padding:10px;
+ 		border: 1px soild ;
+ 		color:black;
+ 		background-color:white;
+ 		
+}
+.link{
+    color:black;
+}

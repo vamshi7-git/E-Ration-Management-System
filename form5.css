@@ -1,0 +1,105 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: serif;
+	background-color: black;
+
+
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 3px;
+	overflow: hidden;
+	background-color: #ff9000;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: 'Trebuchet MS';
+	font-size: 18px;
+
+  }
+  
+  li a:hover:not(.active) {
+	background-color: whitesmoke;
+  }
+  
+.head{
+	width: 600px;
+	font-family: 'Trebuchet MS';
+	text-align: center;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,0.3);
+	margin: 2% auto 0;
+	padding: 4px;
+	color:#ff9000;
+	font-size: 40px;
+	text-decoration: none;
+	
+}
+.sign-up-form{
+
+	width: 400px;
+	background:white;
+	text-align: center;
+	box-shadow: 0 0 7px 0 rgba(0,0,0,0.3);
+	margin: 3% auto 0;
+	margin-bottom: 3%;
+	padding:20px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.sign-up-form h1{
+	color:#ff9000;
+	margin-bottom:40px;
+	font-size: 40px;
+	font-family: Trebuchet MS;
+	text-decoration: none;
+}
+
+
+.inputboxes{
+	width: 100%;
+	border-radius: 20px;
+	width: 200px;
+	padding: 10px;
+	outline: none;
+	border: 1px solid orange;
+	margin: 10px;
+	background-color: black;
+	color:whitesmoke;
+}
+.Submitbutton{
+	color:white ;
+	width: 150px;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	font-family: Trebuchet MS;
+	margin: 10px 0;
+	border: 1px;
+	background-color:#ff9000;
+	outline: none;
+	cursor: pointer;
+}
+
+.error{
+ 		
+ 		width: 100%;
+ 		margin:0px auto;
+ 		padding:10px;
+ 		border: 1px soild ;
+ 		color:black;
+ 		background-color:white;
+ 		
+}
+
