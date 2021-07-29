@@ -8,3 +8,4 @@ The Web Application is designed to Computerize the Ration Supply to public peopl
 
 <img src="register.jpg" width="500">
 <img src="login.jpg" width="500">
+<img src="Card_Holders_registration.png" width="500">
