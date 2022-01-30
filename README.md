@@ -2,10 +2,11 @@
 
 Technologies :  HTML, CSS, Bootstrap, PHP, MYSQL.
 
-The Web Application is Designed and Developed to Computerize the Ration Supply to Public People, which inturn
-reduces the overall time of Ration Distribution Process. The Project aims at Providing a more Transparent and
-Efficient Ration Distribution.
- 
+-> Designed and Developed a Web Application to manage the details of  Ration Distributed to Ration Card Holders.
+
+-> Useful for Ration Distributors to easily Store & Maintain the details of ration items distributed to Ration Card Holders.
+
+-> The main objective of this project is to make the Ration Distribution Process Computerized, Transparent and Efficient.
 
 
 <img src="register.jpg" width="500">
